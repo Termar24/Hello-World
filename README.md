@@ -19,6 +19,7 @@ I want to test the **branching system** so I can *help* my ==friends== ~~and ene
 - T-pose outside for optimal photosynthesis
 
 ## When I'm ready to study
+
 'mkdir study && cd study'
 'shutdown -f 0'
 'while offline; sleep'
@@ -51,5 +52,6 @@ Definition_list
 - [ ] Make my bed
 - [x] Cook sth for lunch
 
+[^1]: I will write it down here.
 # End of the day
-~~Drink some H~2~O~2~ and fly ^up above^~~ (just trying out sub-superscripts)
+Drink some H~2~O~2~ and fly ^up above^ (just trying out sub-superscripts)
