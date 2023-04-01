@@ -27,7 +27,7 @@ I want to test the **branching system** so I can *help* my ==friends== ~~and ene
 |This|Table|
 |---|---|
 |That|Table|
-|------|---|
+|---|---|
 |Those|Tables|
 |---------|---------|
 |All the|Tables|
